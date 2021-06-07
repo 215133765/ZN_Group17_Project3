@@ -1,0 +1,21 @@
+Author: Panashe Muinzani
+Section: Part of home page (Careers Section)
+Date: 6 June 2021
+
+<!-- wp:group {"align":"wide","style":{"color":{"background":"#ffffff"}}} -->
+<div class="wp-block-group alignwide has-background" style="background-color:#ffffff"><!-- wp:group -->
+<div class="wp-block-group"><!-- wp:image {"id":205,"width":450,"height":299,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://yousmart950491539.files.wordpress.com/2021/06/business-leader-interviewing-job-candidate.jpg?w=580" alt="People in an interview" class="wp-image-205" width="450" height="299"/><figcaption>Business leader interviewing job candidate.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>FIELDS IN DEMANDS 2021:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Information Communication technology</li><li>Engineering </li><li>Health professionals </li><li>Architects/Town Planners</li><li>Business and Management Professionals </li><li>Natural and Social  Science professionals </li><li>Quality and Regulatory Professionals</li><li>Sales, Marketing and Related Associate professionals</li><li>Sports and Fitness</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Source: Briefly</p>
+<!-- /wp:paragraph --></div>
